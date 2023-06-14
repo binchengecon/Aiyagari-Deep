@@ -8,7 +8,10 @@ We solve Aiyagri model with Poisson income process with a neural network as an e
 Before running the code, please install the supporting package, NumPy, Tensorflow and Matplotlib
 
 
-One can easily execute by 
+One can easily execute by
+
+
+* pip install -r requirement.txt
 
 
 
